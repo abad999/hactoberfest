@@ -1,2 +1,2 @@
 # hactoberfest
-,ake changes and pull request
+make changes and pull request
